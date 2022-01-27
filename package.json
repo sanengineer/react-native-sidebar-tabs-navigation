@@ -3,7 +3,10 @@
   "description": "build sidebar tabs navigation component.",
   "authors": "sanengineer",
   "version": "1.0.1",
-  "main": "",
+  "main": "index.js",
+  "repository": {
+    "directory": "https://github.com/sanengineer/react-native-sidebar-tabs-navigation"
+  },
   "dependencies": {
     "react-navigation": "^4.4.4",
     "react-navigation-stack": "^2.10.4"
